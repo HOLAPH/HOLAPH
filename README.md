@@ -1,9 +1,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=HOLAPH)
-### Hi there 👋 ! I am Pankaj Holariya. Love to See You Here  
+### Hi there 👋 ! I am Pankaj Holariya. Love to See You Here.  
 <img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
-
 
 - 🔭 I’m currently working as Associate cloud DevOps
 - 📫 I'm preparing for GCP Certification 
@@ -63,9 +61,8 @@
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
  </p>
  
- ---
  
- **Operating System**
+#### Operating System
 |<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>|<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>|<img src="https://img.icons8.com/color/344/mac-os-logo.png" alt="MacOS" width="60" height="60"/>
 --- | --- | --- |
  
