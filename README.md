@@ -4,6 +4,11 @@
 - 📫 I'm preparing for GCP Certification 
 - 🌱 I’m currently working on tools/technologies like Kubernetes/Istio/Helm/Docker/Github actions
 
+## My Github profile
+
+[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=HOLAPH&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/HOLAPH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLAPH&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/HOLAPH)
+
 ## 🛠 Tech Stack
 
 #### Cloud Providers
