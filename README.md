@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=HOLAPH)
 ### Hi there 👋 ! I am Pankaj Holariya. Love to See You Here  
 <img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -11,7 +12,6 @@
 
 ## My Github profile
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=HOLAPH)
 [![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=HOLAPH&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/HOLAPH)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLAPH&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/HOLAPH)
 
