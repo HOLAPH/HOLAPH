@@ -1,4 +1,6 @@
-### Hi there 👋 ! I am Pankaj Holariya. Love to See You Here  <img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" /><p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+### Hi there 👋 ! I am Pankaj Holariya. Love to See You Here  
+<img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 
