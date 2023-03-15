@@ -4,7 +4,7 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 🔭 I’m currently working as Associate cloud DevOps
-- 📫 I'm preparing for GCP Certification 
+- 📫 I'm GCP certified associate cloud engineer
 - 🌱 I’m currently working on tools/technologies like Kubernetes/Istio/Helm/Docker/Github actions
 
 
