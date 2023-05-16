@@ -1,8 +1,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=HOLAPH)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&center=true&width=600&lines=DevOps+%7C+OpenSource+Contributor+%7C+Technical+Writer)](https://git.io/typing-svg)
 ### Hi there 👋 ! I am Pankaj Holariya. Love to See You Here.  
 <img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&center=true&width=600&lines=DevOps+%7C+OpenSource+Contributor+%7C+Technical+Writer)](https://git.io/typing-svg)
  
 - 🔭 I’m currently working as Associate cloud DevOps
 - 📫 I'm GCP certified associate cloud engineer
