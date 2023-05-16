@@ -1,7 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=HOLAPH)
 ### Hi there 👋 ! I am Pankaj Holariya. Love to See You Here.  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=079600E7&width=435&lines=Where+passion+meets+technology%2C++transforming+dreams+into+reality.)](https://git.io/typing-svg)
-
 <img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  
